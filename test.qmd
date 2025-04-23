@@ -25,6 +25,10 @@ plot(runif(100))
 
 The `echo: false` option disables the printing of code (only output is displayed).
 
+```{python}
+print("Hello World!")
+```
+
 ## The last section
 
 blablabla
